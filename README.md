@@ -1,16 +1,55 @@
-# meals_app
+# Foodnetic
 
-A new Flutter project.
+<p align="center">
+   <img src="img/logo.png" alt="Logo" height=95 width=95/>
+</p>
 
-## Getting Started
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-This project is a starting point for a Flutter application.
+<!-- ABOUT THE PROJECT -->
+## Built With
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔥 Screenshots
+
+| Mockup-1 |
+| - |
+| ![img/mockup1.png](img/mockup1.png) |
+| ![img/mockup2.png](img/mockup2.png) |
+| ![img/mockup3.png](img/mockup3.png) |
+| ![img/mockup4.png](img/mockup4.png) |
+
+<!-- BUILT WITH -->  
+
+## How to Install Locally
+
+**1. Fork and clone this repository using**
+
+   ```
+   git clone https://github.com/soumyadeep6845/Meals-App.git
+   cd Meals-App/
+   ```  
+
+**2. Run the app in the way [your IDE describes](https://flutter.dev/docs/get-started/test-drive). You should see either Android, iOS, or web output, depending on your device. **  
+
+---
+
+## Contributing
+
+If you'd like to contribute, please **fork** the repository and then raise a PR with necessary changes. Thank you.
+
+---
+
+## 🤎 Found this project interesting?
+
+If you found this project useful, then please consider leaving a :star: on Github
+and sharing it with your friends via social media.
+
+---
+
+## :man: Project Created & Maintained By-
+  - [Soumyadeep Das](https://www.linkedin.com/in/soumya0021/)
