@@ -34,7 +34,7 @@
    cd Meals-App/
    ```  
 
-**2. Run the app in the way [your IDE describes](https://flutter.dev/docs/get-started/test-drive). You should see either Android, iOS, or web output, depending on your device. **  
+**2. Run the app in the way [your IDE describes](https://flutter.dev/docs/get-started/test-drive). You should see either Android, iOS, or web output, depending on your device.**  
 
 ---
 
