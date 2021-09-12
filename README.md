@@ -1,7 +1,7 @@
 # Foodnetic
 
 <p align="center">
-   <img src="img/logo.png" alt="Logo" height=95 width=95/>
+   <img src="assets/images/logo.gif" alt="Logo"/>
 </p>
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
